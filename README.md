@@ -11,12 +11,19 @@ A repository for all resources and the final product of the Frontend Workshop at
 
 ### 🚀 Quick Start
 
-1. Download or `git clone` this repository using the green button at the top right.
-2. Follow along in the workshop!
-3. If needed, the entire outline & walkthrough is available in the "Workshop Resources" folder.
-4. Do whatever you want with the files. I'm not your boss.
-5. ???
-6. Profit.
+1. Download or `git clone` this repository using the green button in the top right corner.
+
+   ![Location of clone button](Workshop Resources/.raw/readme_howto.png)
+
+   
+
+2. Follow along in the workshop! If needed, the outline and slide deck are available in the "Workshop Resources" folder.
+
+3. Do whatever you want with the files. I'm not your boss.
+
+4. ???
+
+5. Profit.
 
 
 
