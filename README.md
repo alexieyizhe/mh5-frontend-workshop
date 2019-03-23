@@ -13,7 +13,7 @@ A repository for all resources and the final product of the Frontend Workshop at
 
 1. Download or `git clone` this repository using the green button in the top right corner.
 
-   ![Location of clone button](Workshop Resources/.raw/readme_howto.png)
+   ![Location of clone button](https://raw.githubusercontent.com/alexieyizhe/mh5-frontend-workshop/master/Workshop%20Resources/.raw/readme_howto.png)
 
    
 

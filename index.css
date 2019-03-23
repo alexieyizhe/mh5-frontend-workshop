@@ -1,0 +1,57 @@
+html, body {
+  font-family: 'Overpass', sans-serif;
+  height: 100%; /* Used so we can set a height to center our content */
+  margin: 0; /* No annoying white margins around the outside of our page */
+
+  /* Gradient backgrounds! */
+  background: linear-gradient(to bottom, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(90, 178, 203, 1) 100%);
+}
+
+.center-container {
+  position: relative; /* Position this element relative to its parent */
+  top: 50%;                     /* These two lins allow us to */
+  transform: translateY(-50%);  /* center the element VERTICALLY */
+}
+
+.center {
+  text-align: center;
+
+  margin-left: auto;   /* Setting a width and these two properties allows */
+  margin-right: auto;  /* us to center our stuff HORIZONTALLY */
+}
+
+.profile-pic {
+  width: 200px;
+  height: 200px;
+  margin-top: 50px;
+
+  border-radius: 50%; /* 50% means round like a circle */
+  overflow: hidden; /* Hide anything outside of the border */
+
+  transition: transform 200ms linear;  /* Make animations! */
+}
+
+.profile-pic:hover {
+  transform: translateY(-10px); /* This property is being animated on line 29 */
+}
+
+.profile-pic img { /* Selecting the image that's a child of .profile-pic */
+  max-width: 100%;  /* Constrains the image to the size of .profile-pic */
+  max-height: 100%;
+
+  box-shadow: rgba(0, 0, 0, 0.8) 5px 5px 55px inset; /* Shadow on an element */
+}
+
+.desc {
+  margin-top: 50px;
+}
+
+#links a {
+  color: black; /* Setting the text color */
+  text-decoration: overline; /* Overline instead of underline for links */
+  margin: 0 10px; /* Shortcut to writing margin-left, margin-right, etc */
+}
+
+#links a:hover {
+  text-decoration: none; /* Remove overline on hover */
+}

@@ -74,24 +74,18 @@ __MasseyHacks V |__ Alex Xie
   - Terminology
   - Viewing a website
     - Web browsers
-      - 
     - URLs and navigation
-      - 
-    - Resolving DNS 
-      - 
+    - Resolving DNS
     - Fetching assets from server
-      - 
     - Displaying the site
-      - 
     - Sending data back
-      - 
   - Dynamic vs. static sites
     - Dynamic websites:
       - often respond to user input
       - built like apps
       - 2 way communication with a server to store data, perform actions, etc
       - Requires development of a backend
-    - Static sites 
+    - Static sites
       - You ask for a website by typing in the URL, server on host provides a preloaded page, sends it to your web browser to be displayed
       - No backend even needed most of the time
       - Often won't need to communicate back to the host
@@ -125,9 +119,7 @@ __MasseyHacks V |__ Alex Xie
   - Syntax for:
     - Elements
     - Props
-- Start writing code
-  - ??
-  - ??
+- Start writing code!
 
 ==Checkpoint:== By this point, attendees should have the basic structure of the final product.
 
@@ -144,16 +136,14 @@ __MasseyHacks V |__ Alex Xie
 - Applying styles
   - Selectors
   - Properties
-- Start styling
-  - ??
-  - ??
+- Start styling!
 - Advanced CSS concepts
   - Animations
   - Transitions
   - Media queries
   - Pseudoelements
   - Advanced selectors
-  - Etc
+  - etc.
 
 ==Checkpoint:== By this point, attendees should have the layout and look of the final product.
 
@@ -173,7 +163,7 @@ __MasseyHacks V |__ Alex Xie
   1. Commit & push to repository
   2. Navigate to repository page > settings
   3. Enable Github pages
-  4. Eventually, see your website live!
+  4. See your website live!
 - How does this connect the theory and the application?
 
 ==Checkpoint:== By this point, attendees should have a live version of the final product, fully interactive and viewable on the internet.
@@ -190,12 +180,11 @@ __MasseyHacks V |__ Alex Xie
 - Integrating with a backend
   - REST APIs
   - Backend development
-- Mobile 
+- Mobile
   - Responsive design
   - PWAs
   - Native apps
 
 
 
-**Questions? Come see me!**
-
+**Questions? Come find me!**

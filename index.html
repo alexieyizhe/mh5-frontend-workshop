@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Alex's Website</title>
+  <link rel="shortcut icon" type="image/ico" href="favicon.ico" />
+
+  <link rel="stylesheet" href="index.css">
+  <link href="https://fonts.googleapis.com/css?family=Overpass" rel="stylesheet">
+
+  <style>
+    .red {
+      color: #A42A2A !important;
+    }
+
+    #title {
+      cursor: pointer;
+    }
+  </style>
+
+  <script>
+    function clickReveal() {
+      const titleElement = document.getElementById("title");
+      titleElement.innerHTML = "Hi there! I'm Alex.";
+    }
+  </script>
+</head>
+
+<body>
+
+  <div class="center-container">
+
+    <h1 id="title" class="center" onclick="clickReveal()">Click me!</h1>
+
+    <div class="profile-pic center">
+      <img src="https://avatars2.githubusercontent.com/u/17508679?s=460&v=4"></img>
+    </div>
+
+    <p class="desc center">Find me at these places!</p>
+
+    <div id="links" class="center">
+      <a href="https://github.com/alexieyizhe">Github</a>
+      <a href="https://linkedin.com/in/alexieyizhe" style="color: #394EBD;">Linkedin</a>
+      <a href="https://alexieyizhe.me" class="red" target="_blank">Website</a>
+    </div>
+
+  </div>
+
+</body>
+
+</html>
